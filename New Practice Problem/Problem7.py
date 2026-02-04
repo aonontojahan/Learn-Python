@@ -52,3 +52,4 @@ def wallet_menu():
             print("Enter a valid number")
 
 wallet_menu()
+print("Exiting Wallet System.")
