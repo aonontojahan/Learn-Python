@@ -85,3 +85,4 @@ def main_menu():
 
 # Run the system
 main_menu()
+print("Program terminated.")
