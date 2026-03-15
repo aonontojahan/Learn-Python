@@ -1,6 +1,6 @@
 # 🐍 LearnPython
 
-Welcome to **LearnPython**, a beginner-friendly repository curated to help you understand the fundamentals of Python programming with practical examples and simple explanations.....
+Welcome to **LearnPython**, a beginner-friendly repository curated to help you understand the fundamentals of Python programming with practical examples and simple explanations......
 
 ---
 
