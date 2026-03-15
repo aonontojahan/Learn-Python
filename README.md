@@ -6,7 +6,7 @@ Welcome to **LearnPython**, a beginner-friendly repository curated to help you u
 
 ## 📚 Folder Structure
 
-This repository is organized into topic-based folders. Each folder contains standalone `.py` files that demonstrate the core concepts of that topic....
+This repository is organized into topic-based folders. Each folder contains standalone `.py` files that demonstrate the core concepts of that topic.....
 
 ---
 
