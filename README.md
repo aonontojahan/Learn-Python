@@ -15,7 +15,7 @@ This repository is organized into topic-based folders. Each folder contains stan
 - Build a strong foundation in Python
 - Practice with clear and readable examples
 - Provide a reference for future revision
-- Help students and beginners start their Python journey
+- Help students and beginners start their Python journey.
 
 ---
 
