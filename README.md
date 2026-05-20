@@ -12,7 +12,7 @@ This repository is organized into topic-based folders. Each folder contains stan
 
 ## ✅ Goals of This Repository
 
-- Build a strong foundation in Python
+- Build a strong foundation in Python.
 - Practice with clear and readable examples
 - Provide a reference for future revision
 - Help students and beginners start their Python journey
